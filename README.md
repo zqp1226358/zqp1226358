@@ -13,7 +13,7 @@
 ### Hi there ✨
 - 👋 Hi,I'm Override
 - 🌱 I’m currently learning CV and Java
-- 📫 How to reach me: zhuqpe@gmail.com &emsp;  &emsp;  &emsp; &emsp;  
+- 📫 How to reach me: zhuqpe@gmail.com &emsp;  &emsp;  
   
     </td>
     <td>
