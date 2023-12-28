@@ -6,10 +6,25 @@
   </div>
 </div>
 
+<table style="margin-left:auto;margin-right:auto;">
+  <tr>
+    <td>
+      
 ### Hi there ✨
 - 👋 Hi,I'm Override
 - 🌱 I’m currently learning CV and Java
-- 📫 How to reach me: zhuqpe@gmail.com
+- 📫 How to reach me: zhuqpe@gmail.com &emsp;  &emsp;  &emsp; &emsp;  
+  
+    </td>
+    <td>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
+    </td>
+  </tr>
+
+
+
+
 <!--
 **zqp1226358/zqp1226358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
