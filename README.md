@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there ✨
+- 👋 Hi,I'm Override
+- 🌱 I’m currently learning CV and Java
+- 📫 How to reach me: zhuqpe@gmail.com
 <!--
 **zqp1226358/zqp1226358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
