@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2146F0&random=false&width=435&lines=System.out.println(%22Hello+World%22))](https://git.io/typing-svg)
 ### Hi there ✨
 - 👋 Hi,I'm Override
 - 🌱 I’m currently learning CV and Java
