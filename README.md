@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2146F0&random=false&width=435&lines=System.out.println(%22Hello+World%22))](https://git.io/typing-svg)
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C3DF7&random=false&width=435&lines=System.out.println(%22Hello+World!%22)" alt="Typing SVG" /></a>
+  </div>
+</div>
+
 ### Hi there ✨
 - 👋 Hi,I'm Override
 - 🌱 I’m currently learning CV and Java
